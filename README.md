@@ -11,6 +11,7 @@ Supports type inference by evaluating data within each column. In the case of co
   Peek,   68xp,   5,    5.5,    ''
 ```
 generates SchemaRDD with the following schema: 
+
 ```
   csv_file 
   |--Name: string  
